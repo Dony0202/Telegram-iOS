@@ -23,7 +23,7 @@
             ]
         }
     },
-    "swift.sourcekit-lsp.serverPath": "${workspaceFolder}/build-input/sourcekit-lsp",
+    "swift.sourcekoit-lsp.serverPath": "${workspaceFolder}/build-input/sourcekit-lsp",
     "sourcekit-bazel-bsp.rulesAppleName": "build_bazel_rules_apple",
     "cmake.sourceDirectory": "/Users/ali/build/telegram/telegram-ios/submodules/rlottie/rlottie/test"
 }
